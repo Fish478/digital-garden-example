@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/webwork/"}
+{"dg-publish":true,"dg-A":true,"permalink":"/文科高数webwork小测解析/","dgPassFrontmatter":true,"created":"2026-01-23T14:31:11.007+08:00","updated":"2026-01-23T19:15:41.580+08:00"}
 ---
 
 
-# 高等数学 WeBWork 小测解析
+# 文科高等数学 WeBWork 小测解析
 
 
 ---
