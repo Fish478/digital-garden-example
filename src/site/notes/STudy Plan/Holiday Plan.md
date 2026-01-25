@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-C":true,"dg-home":false,"permalink":"/STudy Plan/Holiday Plan/","dgPassFrontmatter":true,"created":"2026-01-23T21:46:30.145+08:00","updated":"2026-01-25T09:24:58.547+08:00"}
+{"dg-publish":true,"dg-C":true,"dg-home":false,"permalink":"/STudy Plan/Holiday Plan/","dgPassFrontmatter":true,"created":"2026-01-23T21:46:30.145+08:00","updated":"2026-01-25T12:23:02.971+08:00"}
 ---
 
 
@@ -49,6 +49,6 @@
 	5. 和老师交流✅️
 	6. 学习python统计与制图❌️
 2. 1.25日
-	1. obsidian进阶
-	2. latex与markdown语法
+	1. obsidian进阶✅️
+	2. markdown语法✅️
 	3. python

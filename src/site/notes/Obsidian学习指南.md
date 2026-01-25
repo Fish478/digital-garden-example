@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-K":true,"tags":["obsidian","latex"],"authors":"Fish","DAY":"2026-01-25","permalink":"/Obsidian学习指南/","dgPassFrontmatter":true,"created":"2026-01-25T09:51:40.695+08:00","updated":"2026-01-25T11:38:44.111+08:00"}
+{"dg-publish":true,"dg-K":true,"tags":["obsidian","latex"],"authors":"Fish","DAY":"2026-01-25","permalink":"/Obsidian学习指南/","dgPassFrontmatter":true,"created":"2026-01-25T09:51:40.695+08:00","updated":"2026-01-25T12:11:06.946+08:00"}
 ---
 
 ## 附件
@@ -8,6 +8,43 @@
 	- 拖放附件
 	- 将附件下载到仓库
 <iframe src="/img/user/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E4%B8%93%E4%B8%9A%E5%9F%B9%E5%85%BB%E6%96%B9%E6%A1%88.pdf" width="100%" height="900px" title="人工智能专业培养方案.pdf" style="border:1px solid #ccc;"></iframe>
+
+## 数学公式
+
+$$
+a_0 [x] (x) \frac{a}{b} \sqrt[n]{a+b}
+
+\sum_{i=0}^{n}\frac{1}{i^2}
+$$
+$$ \prod_{i = 0}^{n}\frac{1}{x2} $$
+$$ \sin$$
+$$ \bot$$
+$$ \ln{(a+b)}$$ $$ \pm$$ $\frac{123}{999}$、$\sqrt[n]{abc}$、$\frac{\sqrt{234}}{\sqrt[n]{abc}}$、$\underrightarrow{abc}$、$\overrightarrow{abc}$
+$$
+ \int_0^{+\infty}f(x)\,dx
+$$
+
+$$
+ \begin{vmatrix}
+ 0&1&2\\
+ 3&4&5\\
+ 6&7&8\\
+ \end{vmatrix}
+ $$
+$$
+\begin{bmatrix}已知y=\sqrt{x+3}&&(x>=0)\\求y的最大值是多少 \end{bmatrix}
+$$
+$$
+\begin{aligned}a=b+c\\b=c-a\\c=a+b \end{aligned}
+$$
+$E=mc^2$
+$\sin$
+sad $\cos(6)$
+$$
+Let $f\colon[a,b]\to\R$ be Riemann integrable. Let $F\colon[a,b]\to\R$ be
+$F(x)=\int_{a}^{x} f(t)\,dt$. Then $F$ is continuous, and at all $x$ such that
+$f$ is continuous at $x$, $F$ is differentiable at $x$ with $F'(x)=f(x)$.
+$$
 
 ## 标注
 
