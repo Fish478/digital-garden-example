@@ -1,9 +1,7 @@
 ---
-{"dg-publish":true,"dg-A":true,"permalink":"/Math/文科高数webwork小测解析/","dgPassFrontmatter":true,"created":"2026-01-23T14:31:11.007+08:00","updated":"2026-01-24T10:28:35.687+08:00"}
+{"dg-publish":true,"tags":["文科高等数学"],"permalink":"/Math/文科高数webwork小测解析/","dgPassFrontmatter":true,"created":"2026-01-23T14:31:11.007+08:00","updated":"2026-02-01T20:44:34.500+08:00"}
 ---
 
-
----
 
 ### 题目 1: 基础不定积分组合
 计算：
